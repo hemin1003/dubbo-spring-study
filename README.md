@@ -12,6 +12,10 @@ alibaba dubbo框架架构学习，二次开发等：
 
 https://github.com/hemin1003/alibaba-dubbo-study
 
+## 最新Dubbo学习教程（201908更新）
+
+[SpringBoot从入门到精通教程（十二）- Dubbo服务提供者、服务消费者整合/Zookeeper集成（最终篇）](https://blog.csdn.net/hemin1003/article/details/96483573)
+
 ## 其他
 
 1. [SpringCloud从入门到精通教程](https://blog.csdn.net/hemin1003/article/details/82043611)
